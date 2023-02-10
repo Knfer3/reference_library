@@ -2,3 +2,4 @@ lib_env
 .env
 conf.ini
 Interests_to_research.ipynb
+.gitignore
